@@ -1,12 +1,5 @@
-## Hi there 👋
+<img src="https://github.com/user-attachments/assets/2c698b07-d909-4e0d-bab5-6be5d084302b" alt="The Chill Devs" width="200">
 
-<!--
+# The Chill Devs (visually as `\thechilldevs.`)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This group of developers builds/creates for a living, to learn, and as a hobby. This will be the main org for all our repositories (templates and such)
