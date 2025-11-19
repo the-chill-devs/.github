@@ -2,4 +2,4 @@
 
 ### `\thechilldevs.`
 
-A collective working in cool ideas.
+A collective working on cool ideas.
