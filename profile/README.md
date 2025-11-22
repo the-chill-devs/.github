@@ -21,4 +21,4 @@ projects and templates which will be listed here.
 
 ---
 
-Thanks for passing by!
+_Thanks for passing by!_
