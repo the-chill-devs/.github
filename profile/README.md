@@ -1,4 +1,4 @@
-## thechilldevs - `\thechilldevs`
+## thechilldevs - 'the-chill-devs' - `\thechilldevs`
 
 > Our mission is to leverage collaborative, open-source development to create impactful, high-quality software that addresses real-world needs, starting with mental wellness.
 
